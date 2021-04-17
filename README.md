@@ -6,15 +6,22 @@
 - ...and so 'future me' can thank 'today me' for having made future developments much smoother *(can you picture that?)*
 - 🌱 Upcoming learning: further digging into data and databases... I am weirdly attracted to this topic!
 
-Other than that: 
+⚡ Other than that: 
 - I have 8 years professional experience including 2 years in tech
 - I was an Agile Delivery Manager, a Waterfall Project Manager, a Business Unit Manager...
-- ... You name it!
+- ... You name it.
 
-I particularly 💛 the topic of privacy, engineering biais, web literacy, gender studies and community organisation.  
-Please **hit me up** if I can help on such topics, including helping on Open Source projects.
+💛 I am particularly interested in:
+- privacy
+- cybersecurity
+- engineering biais
+- web literacy
+- gender studies 
+- community organisation  
 
-Oh and my pronouns are '**She/Her'**, thanks ✌🏽 !
+Please **hit me up** if I can help (including on Open Source projects).
+
+😄 Oh and my pronouns are '**She/Her'**, thanks ✌🏽 !
 
 
 --------
