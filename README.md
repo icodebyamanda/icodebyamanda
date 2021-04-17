@@ -2,7 +2,7 @@
 
 - 🏃🏽‍♀️ A User-Focused-Product-Developer
 - 👏🏽 A graduate from [CodeOp's](https://codeop.tech/) bootcamp
-- 🔭 I’m currently re-working my [Step By Step's project](https://github.com/icodebyamanda/sxs_beta) so my CSS styling becomes way more scalable... 
+- 🔭 I’m currently refactoring my [Step By Step's project](https://github.com/icodebyamanda/sxs_beta) so my CSS styling becomes way more scalable... 
 - ...and so 'future me' can thank 'today me' for having made future developments much smoother *(can you picture that?)*
 - 🌱 Upcoming learning: further digging into data and databases... I am weirdly attracted to this topic!
 
