@@ -6,12 +6,13 @@
 - ...and so 'future me' can thank 'today me' for having made future developments much smoother *(can you picture that?)*
 - 🌱 Upcoming learning: further digging into data and databases... I am weirdly attracted to this topic!
 
-⚡ Other than that: 
+ ✔️ Other than that: 
+ - 🥐 I am based in Paris 
 - I have 8 years professional experience including 2 years in tech
 - I was an Agile Delivery Manager, a Waterfall Project Manager, a Business Unit Manager...
 - ... You name it.
 
-💛 I am particularly interested in:
+⚡ 💛 ⚡ I am particularly interested in:
 - privacy
 - cybersecurity
 - engineering biais
