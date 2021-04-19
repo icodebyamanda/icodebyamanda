@@ -1,10 +1,12 @@
-### Hi there 👋 , I'm Amanda 👩🏽‍💻 !
-
-- 🏃🏽‍♀️ A User-Focused-Product-Developer
-- 👏🏽 A graduate from [CodeOp's](https://codeop.tech/) bootcamp
-- 🔭 I’m currently refactoring my [Step By Step's project](https://github.com/icodebyamanda/sxs_beta) so my CSS styling becomes way more scalable... 
-- 🙏 ...and so 'future me' can thank 'today me' for having made future developments much smoother *(can you picture that?)*
-- 🌱 Upcoming learning: further digging into data and databases... I am weirdly attracted to this topic.
+![Hi_laptop2](https://user-images.githubusercontent.com/50955126/115201338-85f83500-a0f5-11eb-926f-4febbba7d406.png)   
+   
+    
+    
+🏃🏽‍♀️ A User-Focused-Product-Developer  
+👏🏽  A graduate from [CodeOp's](https://codeop.tech/) bootcamp  
+🔭  I’m currently refactoring the CSS of my [Step By Step's project](https://github.com/icodebyamanda/sxs_beta) to become more scalable...   
+🙏 ...and so 'future me' can thank 'today me' for having made future developments much smoother *(can you picture that?)*  
+🌱 Upcoming learning: further digging into data structures and databases... I am weirdly attracted to this topic.  
 
  ✔️ Other than that: 
  - 🥐  I am based in Paris 
@@ -27,7 +29,7 @@ Please **hit me up** if I can help (including on Open Source projects).
 
 --------
 
-🧰 **Toolbox**
+## **Toolbox**
 
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" alt="Sequelize Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro Logo" width="50" height="50"/>  
 
@@ -37,6 +39,7 @@ Please **hit me up** if I can help (including on Open Source projects).
 <img src="https://cdn.worldvectorlogo.com/logos/france.svg" alt="France Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/united-kingdom.svg" alt="UK Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/spainc.svg" alt="Spain Logo" width="50" height="50"/>
+
 
 --------
 
@@ -63,4 +66,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🧰 
 -->
