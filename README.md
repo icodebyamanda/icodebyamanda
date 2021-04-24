@@ -1,5 +1,4 @@
-![Hi_laptop2](https://user-images.githubusercontent.com/50955126/115201338-85f83500-a0f5-11eb-926f-4febbba7d406.png)   
-   
+![3_Banner_Hello](https://user-images.githubusercontent.com/50955126/115952323-8c1b5680-a4e5-11eb-8fa5-635d49236a8f.png)   
     
     
 🏃🏽‍♀️ A User-Focused-Product-Developer  
