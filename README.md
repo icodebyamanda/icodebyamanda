@@ -1,4 +1,5 @@
-![4_Banner_Hello](https://user-images.githubusercontent.com/50955126/115994577-eeed1a80-a5d7-11eb-98cb-96998b15544c.png)
+![4_Banner_Hello](https://user-images.githubusercontent.com/50955126/115994802-cf0a2680-a5d8-11eb-9aa6-aa55152db5dc.png)
+
       
 
 ## I'm Amanda 👋
