@@ -1,7 +1,7 @@
-![3_Banner_Hello](https://user-images.githubusercontent.com/50955126/115952323-8c1b5680-a4e5-11eb-8fa5-635d49236a8f.png)   
-    
+![4_Banner_Hello](https://user-images.githubusercontent.com/50955126/115994577-eeed1a80-a5d7-11eb-98cb-96998b15544c.png)
+      
 
-## Hi I'm Amanda 👋
+## I'm Amanda 👋
 
 🏃🏽‍♀️ A User-Focused-Product-Developer  
 👏🏽  A graduate from [CodeOp's](https://codeop.tech/) bootcamp  
