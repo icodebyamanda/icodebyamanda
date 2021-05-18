@@ -49,7 +49,7 @@ Please **hit me up** if I can help (including on Open Source projects).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icodebyamanda&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Here&hide=contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=icodebyamanda&hide=contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Read more about GitHub Stats [here](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 
