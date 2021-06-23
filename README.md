@@ -6,12 +6,10 @@
 
 🏃🏽‍♀️ A User-Focused-Product-Developer  
 👏🏽  A graduate from [CodeOp's](https://codeop.tech/) bootcamp  
-🔭  I’m currently participating, as a Dev, to the 2021 HerHackathon edition organised by The Hackathon Company. 
+🔭  I’m currently participating, as a Dev, to the 2021 HerHackathon edition organised by The Hackathon Company.  
 I'll be joining [Allianz Global Investor](https://www.allianzgi.com/) Team and working on their NLP project. Wish us luck!
-Check out the event's [teaser](https://youtu.be/Pequlypm-kA) and [website](https://www.thehackathoncompany.com/herhackathon-2021).
-
-
-🔭 Otherwise I'd be working on adding accounts to my [Step By Step's project](https://github.com/icodebyamanda/sxs_beta) so users don't walk on each other's toe. 
+Check out the event's [teaser](https://youtu.be/Pequlypm-kA) and [website](https://www.thehackathoncompany.com/herhackathon-2021).  
+🔭 Otherwise I'd be working on adding accounts to my [Step By Step's project](https://github.com/icodebyamanda/sxs_beta) so users don't walk on each other's toe.  
 🌱 Upcoming learning: further digging into data structures and databases... I am weirdly attracted to this topic.  
 
  ✔️ Other than that: 
