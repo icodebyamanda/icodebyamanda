@@ -4,17 +4,14 @@
 
 ## I'm Amanda 👋
 
-🏃🏽‍♀️ A User-Focused-Product-Developer  
-👏🏽  A graduate from [CodeOp's](https://codeop.tech/) bootcamp  
-🔭  I’m currently participating, as a Dev, to the 2021 HerHackathon edition organised by The Hackathon Company.  
-I'll be joining [Allianz Global Investor](https://www.allianzgi.com/) Team and working on their NLP project. Wish us luck!
-Check out the event's [teaser](https://youtu.be/Pequlypm-kA) and [website](https://www.thehackathoncompany.com/herhackathon-2021).  
-🔭 Otherwise I'd be working on adding accounts to my [Step By Step's project](https://github.com/icodebyamanda/sxs_beta) so users don't walk on each other's toe.  
-🌱 Upcoming learning: further digging into data structures and databases... I am weirdly attracted to this topic.  
+🏃🏽‍♀️ A User-Focused-Product-Professional
+
+👏🏽 A graduate from [CodeOp's](https://codeop.tech/) bootcamp  
+🌱 I embrace products bugs and new features
 
  ✔️ Other than that: 
- - 🥐  I am based in Paris 
-- 👀  I have 8 years professional experience including 2 years in tech
+ - 🥐  I am based in Provence (France) 
+- 👀  I have 10+ years professional experience
 - 🦸🏽‍♀️  I was an Agile Delivery Manager, a Waterfall Project Manager, a Business Unit Manager...
 - ... You name it.
 
@@ -23,8 +20,9 @@ Check out the event's [teaser](https://youtu.be/Pequlypm-kA) and [website](https
 - cybersecurity
 - engineering biais
 - web literacy
+- products inclusion
 - gender studies 
-- community organisation  
+- community building and organisation  
 
 Please **hit me up** if I can help (including on Open Source projects).
 
